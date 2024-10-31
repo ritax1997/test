@@ -12,4 +12,4 @@ Inline `code`
 ```
 print("Hello")
 ```
-[google](www.google.com)
+[google](https://www.google.com/)
