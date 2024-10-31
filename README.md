@@ -1,2 +1,14 @@
-## test 8-)
+## test 
 * version
+## Code
+Inline `code`
+
+  // Some Comments
+  line 1 of code
+  line 2 of code
+  line 3 of code
+
+```
+print("Hello")
+```
+[google](www.google.com)
