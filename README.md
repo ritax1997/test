@@ -1,2 +1,2 @@
 ## test 8-)
-** version
+* version
